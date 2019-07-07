@@ -1,5 +1,9 @@
 # Checkers-Board-Game
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/22586638/60773726-7b62dc00-a0d7-11e9-9f47-27ab0a7c3af0.png" height="750px">
+</p>
+
 1. Extract Zip File MIPSym_2.04.1314.zip
 2. Navigate to MIPSym2/asm
 3. Drag Checkers-Board-Game.asm code file and drop it on top of assembler_old.exe (Checkers-Board-Game.log, Checkers-Board-Game.lst, Checkers-Board-Game.obj should now be created)
